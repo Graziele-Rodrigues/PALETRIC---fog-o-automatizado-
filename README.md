@@ -1,4 +1,4 @@
-# PALETRIC---fogao-automatizado-
+# PALETRIC-fogao-automatizado-
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
